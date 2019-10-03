@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">World Clock</string>
+    <string-array name="cities">
+        <item>Sydney</item>
+        <item>Auckland</item>
+        <item>Bruges</item>
+        <item>Paris</item>
+        <item>New York</item>
+    </string-array>
+</resources>
